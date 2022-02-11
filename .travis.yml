@@ -1,1 +1,4 @@
-hi. this is a tutorial about travis
+language: java
+rvm:
+-1.8
+-eclipse
